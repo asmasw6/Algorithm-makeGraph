@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Asma
+ * @author 
  */
 public class Graph {
 
