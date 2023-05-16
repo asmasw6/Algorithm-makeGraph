@@ -7,7 +7,7 @@ import GraphFramework.Vertex;
 
 /**
  *
- * @author sabah baothman
+ * @author 
  */
 
 //represent the single node in the graph
