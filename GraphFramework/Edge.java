@@ -2,7 +2,7 @@ package GraphFramework;
 
 /**
  *
- * @author asaye
+ * @author 
  */
 public class Edge {
     private Vertex sourceVertex;
