@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  *
- * @author sabah baothman
+ * @author 
  */
 public abstract class MSTAlgorithm {
 
